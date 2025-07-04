@@ -51,9 +51,18 @@ Everything is powered by **just one public API**.
 
 ---
 
-## ⚙️ How to Run Locally
+## ⚙️ Setup Instructions
 
-```bash
-git clone https://github.com/yourusername/nasa-apod.git
-cd nasa-apod
+Just open `index.html` in your browser — no installation needed.
 
+---
+
+## 🧑‍💻 Developer
+
+**Janhavi**  
+Email: janhavi.dubey2025@gmail.com
+Call2Code 2025 Participant
+
+---
+
+*Made with 💙 using the power of a single API.*
