@@ -53,13 +53,13 @@ Everything is powered by **just one public API**.
 ## 📸 Screenshots
 
 ### 🖼️ Interface with Image Loaded
-![Main View](assets/main.png)
+(assets/main.png)
 
 ### 🌙 Random Fact and Fav Image Saved Enabled
-![Dark Mode](assets/random fact and fav image saved.png)
+(assets/random fact and fav image saved.png)
 
 ### 💾 dowanload image Section
-![Favorites](assets/download image function.png)
+(assets/download image function.png)
 
 
 
