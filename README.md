@@ -49,6 +49,15 @@ Everything is powered by **just one public API**.
 - GitHub (Version Control)
 - Hosted on Vercel
 
+## 🎥 About the NASA APOD 
+
+NASA's Astronomy Picture of the Day (APOD) API provides daily space images along with a title and description. I’ve used this single API to power all core features of this app.
+
+Watch this short video to learn more about it:
+
+[![Watch NASA APOD API Intro](https://drive.google.com/file/d/1KiSTiEdD0Vbc87P6UPCdl79AftrRHnwA/view?usp=sharing)
+
+
 ---
 ## 📸 Screenshots
 
