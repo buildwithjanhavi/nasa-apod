@@ -62,7 +62,7 @@ Everything is powered by **just one public API**.
 ![Download Function](https://github.com/buildwithjanhavi/nasa-apod/blob/main/download-image%20function.png)
 
 ### ⬇️ Error-Handling Image Function
-![Error-Handling Function](assets/download-image-function.png)
+![Error-Handling Function](https://github.com/buildwithjanhavi/nasa-apod/blob/main/error%20handling.png)
 
 ## ⚙️ Setup Instructions
 
