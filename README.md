@@ -61,6 +61,9 @@ Everything is powered by **just one public API**.
 ### ⬇️ Download Image Function
 ![Download Function](https://github.com/buildwithjanhavi/nasa-apod/blob/main/download-image%20function.png)
 
+### ⬇️ Error-Handling Image Function
+![Error-Handling Function](assets/download-image-function.png)
+
 ## ⚙️ Setup Instructions
 
 Just open `index.html` in your browser — no installation needed.
