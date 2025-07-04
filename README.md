@@ -55,8 +55,8 @@ Everything is powered by **just one public API**.
 ### 🖼️ Interface Overview
 ![Main Overview](https://github.com/buildwithjanhavi/nasa-apod/blob/main/main-overview.png)
 
-### 🌌 Random Space Fact Displayed
-![Random Fact](assets/random-fact.png)
+### 🌌 Random Space Fact and Fav Saved Image Displayed
+![Random Fact](https://github.com/buildwithjanhavi/nasa-apod/blob/main/randon%20fact%20and%20fav%20image%20saved.png)
 
 ### ⬇️ Download Image Function
 ![Download Function](assets/download-image-function.png)
