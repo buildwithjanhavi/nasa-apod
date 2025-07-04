@@ -1,4 +1,4 @@
-const apiKey = 'AI6aQidzmbxGR7vBteKAv7szfc1gyRjrzGJbX9me';  // Replace with your real NASA API key
+const apiKey = 'AI6aQidzmbxGR7vBteKAv7szfc1gyRjrzGJbX9me';
 
 const spaceFacts = [
     "A day on Venus is longer than its year!",
