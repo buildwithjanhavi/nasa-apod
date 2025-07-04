@@ -59,11 +59,7 @@ Everything is powered by **just one public API**.
 ![Random Fact](https://github.com/buildwithjanhavi/nasa-apod/blob/main/randon%20fact%20and%20fav%20image%20saved.png)
 
 ### ⬇️ Download Image Function
-![Download Function](assets/download-image-function.png)
-
-
-
-
+![Download Function](https://github.com/buildwithjanhavi/nasa-apod/blob/main/download-image%20function.png)
 
 ## ⚙️ Setup Instructions
 
