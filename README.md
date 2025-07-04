@@ -44,7 +44,7 @@ Everything is powered by **just one public API**.
 ## 🛠️ Technologies Used
 
 - HTML5, CSS3, JavaScript (Vanilla)
-- NASA APOD API
+- NASA APOD API- https://api.nasa.gov/
 - Local Storage
 - GitHub (Version Control)
 - Hosted on Vercel
