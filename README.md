@@ -53,7 +53,7 @@ Everything is powered by **just one public API**.
 ## 📸 Screenshots
 
 ### 🖼️ Interface Overview
-![Main Overview](assets/main-overview.png)
+![Main Overview](https://github.com/buildwithjanhavi/nasa-apod/blob/main/main-overview.png)
 
 ### 🌌 Random Space Fact Displayed
 ![Random Fact](assets/random-fact.png)
