@@ -50,6 +50,18 @@ Everything is powered by **just one public API**.
 - Hosted on Vercel
 
 ---
+## 📸 Screenshots
+
+### 🖼️ Interface with Image Loaded
+![Main View](assets/main.png)
+
+### 🌙 Random Fact and Fav Image Saved Enabled
+![Dark Mode](assets/random fact and fav image saved.png)
+
+### 💾 dowanload image Section
+![Favorites](assets/download image function.png)
+
+
 
 ## ⚙️ Setup Instructions
 
