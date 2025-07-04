@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NASA Picture of the Day</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>NASA Astronomy Picture of the Day</h1>
+
+    <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+
+    <label for="date">Choose a date (YYYY-MM-DD):</label>
+    <input type="date" id="date">
+    <button onclick="getPicture()">Get Picture</button>
+    <button onclick="saveToFavorites()">Save to Favorites</button>
+    <button onclick="downloadImage()">Download Image</button>
+
+    <p id="loading" style="display: none;">Loading...</p>
+
+    <div id="content">
+        <h2 id="title"></h2>
+        <img id="image" src="" alt="NASA Pic of the Day">
+        <p id="description"></p>
+    </div>
+
+    <h3>Random Space Fact:</h3>
+    <p id="space-fact"></p>
+
+    <h3>Your Favorites:</h3>
+    <div id="favorites"></div>
+
+    <p id="error-message" style="color: red; display: none;"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>
