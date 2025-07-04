@@ -52,14 +52,16 @@ Everything is powered by **just one public API**.
 ---
 ## 📸 Screenshots
 
-### 🖼️ Interface with Image Loaded
-(assets/main.png)
+### 🖼️ Interface Overview
+![Main Overview](assets/main-overview.png)
 
-### 🌙 Random Fact and Fav Image Saved Enabled
-(assets/random fact and fav image saved.png)
+### 🌌 Random Space Fact Displayed
+![Random Fact](assets/random-fact.png)
 
-### 💾 dowanload image Section
-(assets/download image function.png)
+### ⬇️ Download Image Function
+![Download Function](assets/download-image-function.png)
+
+
 
 
 
