@@ -21,7 +21,7 @@ Everything is powered by **just one public API**.
 
 ## 🌐 Live Website
 
-👉 [https://nasa-apod.vercel.app](https://nasa-apod.vercel.app)  
+👉 https://nasa-apod.vercel.app 
 👉 GitHub Repo: [https://github.com/yourusername/nasa-apod](https://github.com/yourusername/nasa-apod)
 
 ---
